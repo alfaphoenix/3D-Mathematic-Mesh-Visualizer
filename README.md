@@ -24,22 +24,22 @@ trimesh
 
 
 📦 Структура проекта
-grafic/
-│
-├── __init__.py                # точка входа
-├── camera.py                  # функции для врашения и перемешения камеры 
-├── matrix_functioons.py       # матричные переобразования
-├── object_3D.py               # парсинг 3D обЪектов и их визуализация 
-├── projection.py              # построение проекций 
-└── main.py                    # оснавные функции для управления программы
-│
-├── resources/
-│   ├── torus.obj
-│   ├── sphere.obj
-│   ├── monkey.obj
-│   └── screenshot.png    # пример результата
-│
-└── README.md
+grafic/  
+│  
+├── __init__.py                # точка входа  
+├── camera.py                  # функции для врашения и перемешения камеры  
+├── matrix_functioons.py       # матричные переобразования  
+├── object_3D.py               # парсинг 3D обЪектов и их визуализация  
+├── projection.py              # построение проекций  
+└── main.py                    # оснавные функции для управления программы  
+│  
+├── resources/  
+│   ├── torus.obj  
+│   ├── sphere.obj  
+│   ├── monkey.obj  
+│   └── screenshot.png    # пример результата  
+│  
+└── README.md  
 
 
 ▶️ Как запустить
