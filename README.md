@@ -65,7 +65,7 @@ f 2 3 4
 Визуализация:
 ![screen 1](grafic/resources/screen.jpg)
 
-![screen 2](grafic/resources/screen2.jpg)
+![screen 2](grafic/resources/screen_2.jpg)
 
 ![screen 3](grafic/resources/screen3.jpg)
 
